@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Black Lives Matter Martinez';
+    src: url('BlackLivesMatterMartinez.woff2') format('woff2'),
+        url('BlackLivesMatterMartinez.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
