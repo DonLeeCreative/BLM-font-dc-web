@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Black Lives Matter Staten Isl';
+    src: url('BlackLivesMatterStatenIsl.woff2') format('woff2'),
+        url('BlackLivesMatterStatenIsl.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
